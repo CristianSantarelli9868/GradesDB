@@ -1,4 +1,4 @@
-USE Grados;
+USE grados;
 
 CREATE OR REPLACE VIEW v_professors AS
 SELECT
